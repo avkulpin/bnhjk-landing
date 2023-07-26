@@ -1,10 +1,10 @@
 import classes from './App.module.css'
-import Logo from '/images/logo.png'
+import Logo from './Logo'
 
 function App() {
   return (
     <div className={classes.app}>
-      <img className={classes.logo} src={Logo} />
+      <Logo />
     </div>
   )
 }
