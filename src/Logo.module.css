@@ -1,4 +1,6 @@
 .logo {
+    width: 70%;
+    max-width: 1300px;
     user-drag: none;
     -webkit-user-drag: none;
     user-select: none;
